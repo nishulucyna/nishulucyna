@@ -6,7 +6,7 @@
   <br>
 
   <!-- The Typing SVG (Fixed special characters) -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=700&lines=Hey+%3A%29;I%27m+an+Undergrad;in+Computer+Science+and+Applied+Mathematics;Check+out+my+work+%28%E7%B4%A3%E2%96%BD%E7%B4%A3%29" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=700&lines=Hey+:);I'm+an+Undergrad;in+Computer+Science+and+Applied+Mathematics;Check+out+my+work+(￣▽￣)" alt="Typing SVG" />
 </div>
 
 <br>
