@@ -1,23 +1,25 @@
 <div align="center">
-  <!-- Side-by-side Header GIF and Gengar Sprite -->
-  <table>
-    <tr>
-      <td align="center" valign="middle" style="border: none; background: transparent;">
-        <img src="assets/gif_77e877d66047.gif" width="400" alt="Header GIF">
-      </td>
-      <td align="center" valign="middle" style="border: none; background: transparent;">
-        <img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" width="100" alt="Gengar Sprite">
-      </td>
-    </tr>
-  </table>
+
+  <!-- Your header GIF -->
+
+  <img src="assets/gif_77e877d66047.gif">
+
+
 
   <br>
 
-  <!-- The Typing SVG -->
+  <br>
+
+
+
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hey+%3A%29;I%27m+an+Undergrad+in+Computer+Science+and+Applied+Mathematics;Check+out+my+work+%28%EF%BF%A3%E2%96%BD%EF%BF%A3%29" alt="Typing SVG" />
+
 </div>
 
+
+
 <br>
+
 <br>
 > `[ // FEATURED_PROJECTS_ ]`
 
