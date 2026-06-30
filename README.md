@@ -22,7 +22,7 @@
 
 <br>
 
-<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&color=FF007F&repeat=false&width=450&lines=%5B+%2F%2F+FEATURED_PROJECTS_+%5D" alt="Featured Projects" align="absmiddle" />&nbsp;<img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" width="60" align="text-top" /></div>
+<div align="left"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&color=FF007F&repeat=false&width=450&lines=%5B+%2F%2F+FEATURED_PROJECTS_+%5D" alt="Featured Projects" align="absmiddle" />&nbsp;<img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" width="57" align="text-top" /></div>
 
 
 
