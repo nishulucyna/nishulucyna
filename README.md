@@ -26,7 +26,7 @@
 
 <br>
 
-### Qryptex
+### QRYPTEX
 **Hybrid Post-Quantum Cryptographic (PQC) Protocol**
 
 A robust encryption pipeline combining traditional symmetric cryptography with NIST-standardized quantum-resistant algorithms to thwart "Harvest Now, Decrypt Later" attacks.
@@ -38,6 +38,8 @@ A robust encryption pipeline combining traditional symmetric cryptography with N
 
 #### Architecture & Findings
 Simulated end-to-end flow. Identified a critical limit in QRNG-based commitments lacking origin authentication. Out-of-Band (OOB) channels remain mandatory for initial key exchange against MITM attacks.
+
+
 - **[Project 1]** - Description of the project...
 - **[Project 2]** - Description of the project...
 ### 🎀 The Stack
