@@ -26,11 +26,11 @@ A hybrid Post-Quantum Cryptographic communication model combining classical symm
 A dual-model ensemble (RawNet2 + AASIST) for detecting AI-generated and manipulated speech in real time — TTS synthesis, voice cloning, GAN vocoders, and replay attacks — with a live call interception pipeline over Twilio Media Streams and sub-3-second detection latency.
 
 **Results:**
-| Metric | In-Domain | Cross-Domain (ASVspoof 2019 LA) |
-|---|:---:|:---:|
-| AUC | 0.9946 | 0.8845 |
-| EER | 3.29% | 19.94% |
-| Accuracy | 95.82% | 79.05% |
+| Metric | Cross-Domain (ASVspoof 2019 LA) |
+|---|:---:|
+| AUC | 0.8845 |
+| EER | 19.94% |
+| Accuracy | 79.05% |
 
 - Cross-domain evaluation on a benchmark **never seen during training**, proving genuine generalization rather than overfitting to known attack types.
 - Dual-model **MAX fusion** strategy — if either model flags a clip, it's flagged — preserving each model's specialist detections (RawNet2 for synthesis artifacts, AASIST for replay/codec attacks).
