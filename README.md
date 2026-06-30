@@ -8,7 +8,7 @@
   
   **I'm an Undergrad in Computer Science & Applied Mathematics**
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Writing+Python+scripts;Optimizing+workflows+with+uv;Living+in+the+terminal;Exploring+Cryptography" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=Living+in+the+terminal;Exploring+Cryptography;Forging+new+paths" alt="Typing SVG" />
 </div>
 
 <br>
