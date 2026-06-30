@@ -26,19 +26,22 @@
 
 <br>
 
-> ### `[ DIR: ./jordan_techfest ]`
-> **Hybrid Post-Quantum Cryptographic (PQC) Protocol**
-> A robust encryption pipeline combining traditional symmetric cryptography with NIST-standardized quantum-resistant algorithms to thwart "Harvest Now, Decrypt Later" attacks.
->
-> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF007F" /> <img src="https://img.shields.io/badge/uv-000000?style=for-the-badge&logo=python&logoColor=FF007F" /> <img src="https://img.shields.io/badge/liboqs-000000?style=for-the-badge&logo=c&logoColor=FF007F" /> <img src="https://img.shields.io/badge/pycryptodome-000000?style=for-the-badge&logo=c++&logoColor=FF007F" />
-> 
-> **`[ CORE_CONSTRUCTS ]`**
-> * **KEM (Key Encapsulation):** ML-KEM (CRYSTALS-Kyber) for quantum-resistant shared secret exchange.
-> * **DSA (Digital Signatures):** ML-DSA (CRYSTALS-Dilithium) for origin authentication and non-repudiation.
-> * **Bulk Encryption:** AES-256-GCM using 256-bit symmetric keys derived from Kyber shared secrets.
-> 
-> **`[ SYS.LOG: ARCHITECTURE_NOTES ]`**
-> Simulated end-to-end flow from encapsulation to decapsulation. Identified a critical limitation in QRNG-based commitment schemes $C = H(PK \parallel r)$ lacking origin authentication, confirming the absolute necessity of Out-of-Band (OOB) channels for initial key exchange against MITM attacks.
+[ QRYPTEX ]
+STATUS: Hybrid Post-Quantum Cryptographic (PQC) Protocol
+
+A robust encryption pipeline combining traditional symmetric cryptography 
+with NIST-standardized quantum-resistant algorithms to thwart 
+"Harvest Now, Decrypt Later" attacks.
+
+[ CORE_CONSTRUCTS ]
+> KEM: ML-KEM (CRYSTALS-Kyber) for quantum-resistant shared secrets.
+> DSA: ML-DSA (CRYSTALS-Dilithium) for origin authentication.
+> ENC: AES-256-GCM bulk encryption via Kyber shared secrets.
+
+[ SYS.LOG: ARCHITECTURE ]
+Simulated end-to-end flow. Identified critical limit in QRNG-based 
+commitments lacking origin authentication. OOB channels remain 
+mandatory for initial key exchange against MITM attacks.
 
 - **[Project 1]** - Description of the project...
 - **[Project 2]** - Description of the project...
