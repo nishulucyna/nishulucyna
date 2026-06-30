@@ -26,7 +26,7 @@
 
 <br>
 
-### 🔒 Qryptex
+### Qryptex
 **Hybrid Post-Quantum Cryptographic (PQC) Protocol**
 
 A robust encryption pipeline combining traditional symmetric cryptography with NIST-standardized quantum-resistant algorithms to thwart "Harvest Now, Decrypt Later" attacks.
