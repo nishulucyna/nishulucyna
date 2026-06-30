@@ -22,10 +22,10 @@
 
 <br>
 
-> `[ // DEPLOYED_CONSTRUCTS_ ]` <img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" width="45" align="center">
+## `[ // FEATURED_PROJECTS_ ]` <img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" width="55" align="absmiddle">
 
-- **[Project 1]** - Description...
-- **[Project 2]** - Description...
+- **[Project 1]** - Description of the project...
+- **[Project 2]** - Description of the project...
 ### 🎀 The Stack
 <div align="center">
   <!-- Customize these to your liking -->
