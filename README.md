@@ -22,7 +22,7 @@
 
 <br>
 
-# `[ // FEATURED_PROJECTS_ ]` <img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" width="67" align="absmiddle">
+# $\colorbox{#2D0036}{\color{#FFB6C1}{\texttt{ [\ //\ FEATURED\_PROJECTS\_\ ] }}}$ <img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" width="67" align="absmiddle">
 
 - **[Project 1]** - Description of the project...
 - **[Project 2]** - Description of the project...
