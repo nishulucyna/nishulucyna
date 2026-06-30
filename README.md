@@ -1,13 +1,21 @@
 <div align="center">
-  <!-- Replace this with a high-quality GIF (e.g., Mushoku Tensei scenery, Edgerunners pixel art, or Gen 4/5 Pokemon sprites) -->
+  <!-- Your header GIF -->
   <img src="assets/gif_77e877d66047.gif">
 
   <br>
+  <br>
 
- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=Hey+:);I'm+an+Undergrad+in+Computer+Science+and+Applied+Mathematics;> `[//FEATURED_PROJECTS_]`" alt="Typing SVG" />
+  <!-- The Typing SVG (Fixed special characters) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=700&lines=Hey+:);Undergrad+in+Computer+Science+and+Applied+Mathematics" alt="Typing SVG" />
 </div>
 
 <br>
+<br>
+
+> `[ // FEATURED_PROJECTS_ ]`
+
+- **[Project 1]** - Description goes here.
+- **[Project 2]** - Description goes here.
 
 ### 🎀 The Stack
 <div align="center">
