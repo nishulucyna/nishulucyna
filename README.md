@@ -26,23 +26,18 @@
 
 <br>
 
-[ QRYPTEX ]
-STATUS: Hybrid Post-Quantum Cryptographic (PQC) Protocol
+### 🔒 Qryptex
+**Hybrid Post-Quantum Cryptographic (PQC) Protocol**
 
-A robust encryption pipeline combining traditional symmetric cryptography 
-with NIST-standardized quantum-resistant algorithms to thwart 
-"Harvest Now, Decrypt Later" attacks.
+A robust encryption pipeline combining traditional symmetric cryptography with NIST-standardized quantum-resistant algorithms to thwart "Harvest Now, Decrypt Later" attacks.
 
-[ CORE_CONSTRUCTS ]
-> KEM: ML-KEM (CRYSTALS-Kyber) for quantum-resistant shared secrets.
-> DSA: ML-DSA (CRYSTALS-Dilithium) for origin authentication.
-> ENC: AES-256-GCM bulk encryption via Kyber shared secrets.
+#### Core Constructs
+* **KEM:** ML-KEM (CRYSTALS-Kyber) for quantum-resistant shared secrets.
+* **DSA:** ML-DSA (CRYSTALS-Dilithium) for origin authentication.
+* **ENC:** AES-256-GCM bulk encryption via Kyber shared secrets.
 
-[ SYS.LOG: ARCHITECTURE ]
-Simulated end-to-end flow. Identified critical limit in QRNG-based 
-commitments lacking origin authentication. OOB channels remain 
-mandatory for initial key exchange against MITM attacks.
-
+#### Architecture & Findings
+Simulated end-to-end flow. Identified a critical limit in QRNG-based commitments lacking origin authentication. Out-of-Band (OOB) channels remain mandatory for initial key exchange against MITM attacks.
 - **[Project 1]** - Description of the project...
 - **[Project 2]** - Description of the project...
 ### 🎀 The Stack
