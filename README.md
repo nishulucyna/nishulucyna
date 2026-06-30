@@ -4,7 +4,7 @@
 
   <br>
 
- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=Hey+:);I'm+an+Undergrad+in+Computer+Science+and+Applied+Mathematics;> `[ // FEATURED_PROJECTS_ ]`" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=500&lines=Hey+:);I'm+an+Undergrad+in+Computer+Science+and+Applied+Mathematics;> `[//FEATURED_PROJECTS_]`" alt="Typing SVG" />
 </div>
 
 <br>
