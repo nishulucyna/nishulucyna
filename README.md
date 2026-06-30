@@ -4,7 +4,7 @@
 
   <br>
 
-  # * Hey :) *
+  # Hey :)
   
   **B.Tech CS & Applied Mathematics | 3rd Year | Building things fast**
 
