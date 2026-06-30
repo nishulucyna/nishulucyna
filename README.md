@@ -63,7 +63,7 @@ A dual-model ensemble system designed to detect AI-generated and manipulated spe
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&color=FF007F&repeat=false&width=450&lines=%5B+%2F%2F+ONGOING_PROJECTS_+%5D" alt="Ongoing Projects" align="absmiddle" />&nbsp;<img src="https://play.pokemonshowdown.com/sprites/gen5ani/snorlax.gif" width="57" align="text-top" />
   
-  <h3>Nothing atm! (；￣Д￣)</h3>
+  <h3>None atm! (；￣Д￣)</h3>
 </div>
 
 ---
