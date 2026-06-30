@@ -12,7 +12,7 @@
 
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hey+%3A%29;I%27m+an+Undergrad+in+Computer+Science+and+Applied+Mathematics;Check+out+my+work+%28%EF%BF%A3%E2%96%BD%EF%BF%A3%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=1000&lines=Hey+%3A%29;I%27m+an+Undergrad+in+Computer+Science+and+Applied+Mathematics;Check+out+my+work+%28%EF%BF%A3%E2%96%BD%EF%BF%A3%29" alt="Typing SVG" />
 
 </div>
 
