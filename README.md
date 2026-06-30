@@ -6,7 +6,7 @@
 
   # Hey :)
   
-  **B.Tech CS & Applied Mathematics | 3rd Year | Building things fast**
+  **I'm an Undergrad in Computer Science & Applied Mathematics**
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Writing+Python+scripts;Optimizing+workflows+with+uv;Living+in+the+terminal;Exploring+Cryptography" alt="Typing SVG" />
 </div>
