@@ -43,6 +43,21 @@ Simulated end-to-end flow. Identified a critical limit in QRNG-based commitments
 
 ---
 
+### [SENTINEL](https://github.com/CRRAO-Internal-Hackathon-2026/techfest)
+**Real-Time AI Deepfake Audio Detector**
+
+A dual-model ensemble system designed to detect AI-generated and manipulated speech in real-time, featuring a live call interception pipeline with sub-3-second latency.
+
+#### Core Architecture
+* **Ensemble Strategy:** MAX fusion of RawNet2 (synthesis artifact detection) and AASIST (spectral-temporal graph analysis) to catch both advanced TTS cloning and replay attacks.
+* **Live Pipeline:** Twilio Media Streams → WebSocket → 3-second rolling analysis window → automated call termination upon deepfake detection.
+* **Tech Stack:** PyTorch, FastAPI, WebSockets, Twilio, Gradio.
+
+#### Training & Performance
+* **Dataset:** Trained on 93,000+ clips across modern attack vectors (ASVspoof5, XTTS v2, WaveFake, Edge-TTS).
+* **Results:** Achieved and demonstrated genuine zero-shot generalization with **0.8845 AUC** on unseen cross-domain benchmarks (ASVspoof 2019 LA).
+
+---
 - **[Project 1]** - Description of the project...
 - **[Project 2]** - Description of the project...
 ### 🎀 The Stack
