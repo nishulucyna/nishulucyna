@@ -24,7 +24,7 @@
 
 <h2 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&color=FF007F&repeat=false&width=450&lines=%5B+%2F%2F+FEATURED_PROJECTS_+%5D" alt="Featured Projects" align="absmiddle" />
-  <img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" width="76" align="absmiddle">
+  <img src="https://play.pokemonshowdown.com/sprites/gen5ani/gengar.gif" width="67" align="absmiddle">
 </h2>
 
 - **[Project 1]** - Description of the project...
