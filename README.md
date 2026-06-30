@@ -4,7 +4,7 @@
 
   <br>
 
-  # ✧･ﾟ: *✧･ﾟ:* Welcome to my domain *:･ﾟ✧*:･ﾟ✧
+  # ✧･ﾟ: *✧･ﾟ:* Hey :) *:･ﾟ✧*:･ﾟ✧
   
   **B.Tech CS & Applied Mathematics | 3rd Year | Building things fast**
 
