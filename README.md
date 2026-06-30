@@ -67,7 +67,6 @@ A dual-model ensemble system designed to detect AI-generated and manipulated spe
 </div>
 
 ---
----
 <div align="center">
-  <sub><i>// Connection Terminated - Last Updated: June 2026</i></sub>
+  <sub><i>// Bye bye! ( ´ ▽ ` )ﾉ </i></sub>
 </div>
