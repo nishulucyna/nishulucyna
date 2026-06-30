@@ -58,29 +58,10 @@ A dual-model ensemble system designed to detect AI-generated and manipulated spe
 * **Results:** Achieved and demonstrated genuine zero-shot generalization with **0.8845 AUC** on unseen cross-domain benchmarks (ASVspoof 2019 LA).
 
 ---
-- **[Project 1]** - Description of the project...
-- **[Project 2]** - Description of the project...
-### 🎀 The Stack
-<div align="center">
-  <!-- Customize these to your liking -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/uv-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zed-18181B?style=for-the-badge&logo=zed&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mathematics-FF7139?style=for-the-badge&logo=wolfram&logoColor=white" />
-</div>
 
 <br>
 
-### 🌸 GitHub Stats
+---
 <div align="center">
-  <!-- The theme is set to 'tokyonight' for a nice neon/pastel vibe, but you can change it to 'radical' or 'dracula' -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <i>"I don't need a heavy IDE, I just need a good aesthetic."</i> <br>
-  (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+  <sub><i>// Connection Terminated - Last Updated: June 2026</i></sub>
 </div>
