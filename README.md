@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace this with a high-quality GIF (e.g., Mushoku Tensei scenery, Edgerunners pixel art, or Gen 4/5 Pokemon sprites) -->
-  <img src="https://i.pinimg.com/originals/a0/0a/63/a00a6316279f57ebbf7d8b58df589b3f.gif" width="100%" alt="Anime Header Banner">
+  <img src="assets/gif_77e877d66047.gif">
 
   <br>
 
