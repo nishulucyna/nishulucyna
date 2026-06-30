@@ -60,7 +60,8 @@ A dual-model ensemble system designed to detect AI-generated and manipulated spe
 ---
 
 <br>
-
+### `[ // ONGOING PROJECTS_ ]`
+#### Nothing atm! (；￣Д￣)
 ---
 <div align="center">
   <sub><i>// Connection Terminated - Last Updated: June 2026</i></sub>
